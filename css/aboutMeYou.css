@@ -1,0 +1,285 @@
+/* 
+* @Author: Marte
+* @Date:   2016-12-28 11:30:40
+* @Last Modified by:   Marte
+* @Last Modified time: 2017-01-18 15:05:41
+*/
+@media screen and (min-width: 1200px){
+    .banner{
+        width:100%;
+        height:604px;
+        background: url(../images/aboutUs-banner.png) no-repeat center top;
+        /*background-size:100%;*/
+    }
+    .aboutUs-Content{
+        height:auto;
+    }
+    .aboutUs-P{
+        width:1100px;
+        height:auto;
+        margin:0 auto;
+        padding-bottom:80px;
+    }
+    .aboutUs-Title{
+        height:50px;
+        padding:60px 0 30px;
+        text-align:center;
+        font-size:36px;
+        font-weight:bold;
+    }
+    .aboutUs-TitleIntro{
+        text-indent:2em;
+        line-height:30px;
+    }
+    .aboutUs-parnter{
+        width:600px;
+        height:auto;
+        text-align:center;
+        margin:0 auto;
+        padding-top:8px;
+        display:none;
+    }
+    .aboutUs-parnter .aboutUs-parnterP{
+        height:40px;
+        line-height:40px;
+        text-align:left;
+    }
+    .aboutUs-parnterP span{
+        display:inline-block;
+    }
+    .aboutUs-parnterP span.fl{
+        width:370px;    
+    }
+    .aboutUs-parnterP span.fr{
+        width:230px;
+    }
+    .aboutUs-online{
+        background:#9bd100;
+        padding:18px 0;
+        height:auto;
+    }
+    .aboutUs-onlines{
+        width:1100px;
+        height:auto;
+        overflow: hidden;
+        margin:0 auto;
+        color:#fff;
+    }
+    .aboutUs-onlineLeft{
+        height:auto;
+    }
+    .aboutUs-pTotal{
+        font-size:18px;
+        font-weight:bold;
+        padding-bottom:10px;
+    }
+    .aboutUs-p1{
+        font-size:16px;
+        line-height:40px;
+        height:40px;
+    }
+    .aboutUs-p1 a{
+        color:#fff;
+    }
+    .aboutUs-onlineRight{
+        height:160px;
+        width:130px;
+    }
+    .aboutUs-Code{
+        width:130px;
+        height:130px;
+        background:url("../images/aboutUsCode.png") no-repeat center center;
+        background-size:100% auto;
+    }
+    .cleanCode{
+        text-align:center;
+        line-height:24px;
+        letter-spacing:2px;
+    }
+}
+@media screen and (min-width: 980px) and (max-width:1200px){
+    .banner{
+        width:100%;
+        height:604px;
+        background: url(../images/aboutUs-banner.png) no-repeat center top;
+        /*background-size:100%;*/
+    }
+    .aboutUs-Content{
+        height:auto;
+    }
+    .aboutUs-P{
+        width:980px;
+        height:auto;
+        margin:0 auto;
+        padding-bottom:80px;
+    }
+    .aboutUs-Title{
+        height:50px;
+        padding:60px 0 30px;
+        text-align:center;
+        font-size:36px;
+        font-weight:bold;
+    }
+    .aboutUs-TitleIntro{
+        text-indent:2em;
+        line-height:30px;
+    }
+    .aboutUs-parnter{
+        width:600px;
+        height:auto;
+        text-align:center;
+        margin:0 auto;
+        padding-top:8px;
+        display:none;
+    }
+    .aboutUs-parnter .aboutUs-parnterP{
+        height:40px;
+        line-height:40px;
+        text-align:left;
+    }
+    .aboutUs-parnterP span{
+        display:inline-block;
+    }
+    .aboutUs-parnterP span.fl{
+        width:370px;    
+    }
+    .aboutUs-parnterP span.fr{
+        width:230px;
+    }
+    .aboutUs-online{
+        background:#9bd100;
+        padding:18px 0;
+        height:auto;
+    }
+    .aboutUs-onlines{
+        width:980px;
+        height:auto;
+        overflow: hidden;
+        margin:0 auto;
+        color:#fff;
+    }
+    .aboutUs-onlineLeft{
+        height:auto;
+    }
+    .aboutUs-pTotal{
+        font-size:18px;
+        font-weight:bold;
+        padding-bottom:10px;
+    }
+    .aboutUs-p1{
+        font-size:16px;
+        line-height:40px;
+        height:40px;
+    }
+    .aboutUs-p1 a{
+        color:#fff;
+    }
+    .aboutUs-onlineRight{
+        height:160px;
+        width:130px;
+    }
+    .aboutUs-Code{
+        width:130px;
+        height:130px;
+        background:url("../images/aboutUsCode.png") no-repeat center center;
+        background-size:100% auto;
+    }
+    .cleanCode{
+        text-align:center;
+        line-height:24px;
+        letter-spacing:2px;
+    }    
+}
+@media screen and (max-width:980px){
+    .banner{
+        width:100%;
+        height:604px;
+        background: url(../images/aboutUs-banner.png) no-repeat center top;
+        /*background-size:100%;*/
+    }
+    .aboutUs-Content{
+        height:auto;
+    }
+    .aboutUs-P{
+        width:680px;
+        height:auto;
+        margin:0 auto;
+        padding-bottom:80px;
+    }
+    .aboutUs-Title{
+        height:50px;
+        padding:60px 0 30px;
+        text-align:center;
+        font-size:36px;
+        font-weight:bold;
+    }
+    .aboutUs-TitleIntro{
+        text-indent:2em;
+        line-height:30px;
+    }
+    .aboutUs-parnter{
+        width:600px;
+        height:auto;
+        text-align:center;
+        margin:0 auto;
+        padding-top:8px;
+        display:none;
+    }
+    .aboutUs-parnter .aboutUs-parnterP{
+        height:40px;
+        line-height:40px;
+        text-align:left;
+    }
+    .aboutUs-parnterP span{
+        display:inline-block;
+    }
+    .aboutUs-parnterP span.fl{
+        width:370px;    
+    }
+    .aboutUs-parnterP span.fr{
+        width:230px;
+    }
+    .aboutUs-online{
+        background:#9bd100;
+        padding:18px 0;
+        height:auto;
+    }
+    .aboutUs-onlines{
+        width:680px;
+        height:auto;
+        overflow: hidden;
+        margin:0 auto;
+        color:#fff;
+    }
+    .aboutUs-onlineLeft{
+        height:auto;
+    }
+    .aboutUs-pTotal{
+        font-size:18px;
+        font-weight:bold;
+        padding-bottom:10px;
+    }
+    .aboutUs-p1{
+        font-size:16px;
+        line-height:40px;
+        height:40px;
+    }
+    .aboutUs-p1 a{
+        color:#fff;
+    }
+    .aboutUs-onlineRight{
+        height:160px;
+        width:130px;
+    }
+    .aboutUs-Code{
+        width:130px;
+        height:130px;
+        background:url("../images/aboutUsCode.png") no-repeat center center;
+        background-size:100% auto;
+    }
+    .cleanCode{
+        text-align:center;
+        line-height:24px;
+        letter-spacing:2px;
+    }    
+}
